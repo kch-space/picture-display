@@ -1,0 +1,7 @@
+name = "kch-photo-site"
+main = "worker.js"
+compatibility_date = "2024-12-01"
+
+[assets]
+directory = "./"     # 你的 index.html 和资源就在根目录
+binding = "ASSETS"
